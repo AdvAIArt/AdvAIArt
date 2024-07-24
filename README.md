@@ -2,7 +2,7 @@
 
 ## Introduction
 Generative AI models can produce high-quality images from text prompts. These images often look like those created by human artists or photographers. While this technology is impressive, it also raises security concerns. AI-generated images can be used for fraud, misinformation, and unauthorized art creation. In this project, we systematically explore and detect AI-generated images in adversarial scenarios. We have created the ARIA dataset, which contains over 140,000 images in categories such as artworks, social media images, news photos, disaster scenes, and anime pictures.
-You can access our dataset here: [ARIA Dataset](https://kansas-my.sharepoint.com/personal/y844l178_home_ku_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fy844l178%5Fhome%5Fku%5Fedu%2FDocuments%2FARIA%20DATASET&ga=1)
+You can access our dataset here: [ARIA Dataset](https://kansas-my.sharepoint.com/:f:/g/personal/y844l178_home_ku_edu/EsbfHWbpRGZIrka8U53CyVEBqxJZA1IwKXRx1pSejuMffA?e=o2f0eD)
 For more details, see our paper: [The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking](https://arxiv.org/abs/2404.14581)
 
 ## The ARIA Dataset
